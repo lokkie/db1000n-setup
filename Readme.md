@@ -1,4 +1,4 @@
-## Original setipng:
+## Original setuping:
 https://www.youtube.com/watch?v=tFSQJW0vSfI&t=1066s
 
 ## Setuping influx sender
